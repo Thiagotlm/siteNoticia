@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+    <!--head é a configuração da página-->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projeto inicial</title>
+</head>
+<!--body é onde os elementos que aparecem na tela estão-->
+<body>
+    <!--Tags de texto-->
+    <h1>Algum título</h1>
+    <p>Aqui eu posso escrever um texto maior</p>
+    <h2>Outro título de hierarquia "h2"</h2>
+    <h6>Mais um título de hierarquia "h6"</h6>
+    <!--Elemento de texto "strong"(negrito) e "em"(itálico)-->
+    <p>Aqui é um exemplo <strong>utilizando o elemento strong.</strong> </p>
+    <p>Aqui é um exemplo <em>utilizando o elemento em.</em> </p>
+     <!--Imagens e links-->
+     <img src="imagem.jpg" alt="imagem de">
+     <img src="imagem2.jpg">
+     <p>
+        <a href="https://www.Google.com" target="_blank">Google</a>
+     </p> 
+     <p>
+        <a href="https://horadecodar.com.br/materiais/?utm_source=google&utm_medium=cpc&utm_id=campanha-leads&gclid=CjwKCAjwitShBhA6EiwAq3RqAy1mHwIiA_AxskaUxByKzX4V-Fl9JBHcVyms8O0oOGK1Xc_f-fkw-BoCOSoQAvD_BwE" target="_blank">Hora de Codar</a>
+     </p>
+     <!--Lista-->
+     <ul> <!--lista normal-->
+        <li>Lavar o carro</li>
+        <li>Estudar</li>
+        <li>Entrar para a comunidade</li>
+        <li>Me tornar um programador em menos tempo possível</li>
+    </ul>
+    <ol> <!--Lista ordenada-->
+        <li>Preparar a massa</li>
+        <li>Levar ao forno</li>
+        <li>Decorar o bolo</li>
+        <li>Colocar a cereja</li>
+        <li>Colocar a cereja</li>
+    </ol>
+    <footer>
+        <p>
+            Todos os direitos reservados a &COPY;Thiago. 
+        </p>
+    </footer>
+</body>
+</html>
